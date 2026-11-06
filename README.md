@@ -1,7 +1,7 @@
 # FinSight Analytics - Loan Portfolio Risk & BI Platform
 
 > **UST 3DSA-1 | DSA4157: Business Intelligence**  
-> Proposed Domain: `finsightanalytics.com` (Spaceship)
+> Proposed Domain: `finsightanalytics.com`
 
 ## 📌 Project Overview
 FinSight Analytics is a fintech business intelligence dashboard that integrates an analytical banking schema to deliver:
