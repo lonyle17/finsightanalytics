@@ -30,4 +30,4 @@ FinSight Analytics is a fintech business intelligence dashboard that integrates 
 2. Install dependencies
    npm install
 3. Run local development server
-   npm install
+   npm run dev
